@@ -1,1 +1,17 @@
 /* Add your own CSS code below */
+ span.ingredient{
+    color: #c85308;
+ }
+ @media screen and (min-width:992px){
+    .hero__title{
+
+    font-size:300%;
+    }
+    
+
+ }
+ .main-nav {
+    justify-content: left;
+    align-content: flex-start;
+    flex-direction: row;
+ }
